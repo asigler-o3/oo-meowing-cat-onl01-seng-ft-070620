@@ -8,6 +8,5 @@ maru = Cat.new
 maru.name = "Maru"
 maru.name
 
-maru = Cat.new
 maru.meow = "meow!"
 maru.meow
